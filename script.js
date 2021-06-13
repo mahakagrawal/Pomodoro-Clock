@@ -102,6 +102,6 @@ breakSubtract.addEventListener("click",function(event){
     }
 });
 
-var time=15*60;
+var time=20*60;
 setTimer();
 disableButtons();
